@@ -25,12 +25,12 @@ Hi, I'm **Debargho Basak**. I _read_, I _write_ and I _build_ for AI models.
     <img align='right' alt='programmer' width=40% src='./undraw_coding_re_iv62.svg' />
 </a>
 
-- 🌱 This semester I am teaching myself data visualisation.
-- 🎓 Currently pursuing a Master's of Computer Science at the [Albert-Ludwigs-Universität Freiburg](https://uni-freiburg.de/en/).
+- 🌱 This semester I am writing my Master's Thesis on the topic:'Deep Learning based Multi-Modal Tracking for Long Range 3D Perception'.
+- 🎓 Currently pursuing a Master's of Computer Science at the [Technical University of Munich](https://www.cit.tum.de/en/cit/home/).
 - 🎓 Bachelor of Engineering from Netaji Subhas Institute of Technology (Delhi University).
 - 📫 How to reach me: I am always available at [debarghobasakde@gmail.com](mailto:debarghobasakde@gmail.com). Or you could DM me [@debarghobasak](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
 - ⚽ <img alt="You'll Never Walk Alone | Liverpool Football Club Chant" src="https://media2.giphy.com/media/5WEzrY8ao8VlsgFwwx/giphy.gif" height="50px" widht="100px" align="center">
-- 👾 Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
+- 👾 Fun Fact: It's canon that Doomguy is a descendant of B.J. Blazkowicz. ([Source](https://doom.fandom.com/wiki/B.J._Blazkowicz))
 
 ## Languages
 

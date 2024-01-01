@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Debargho
 
 <!--
-**tintindas/tintindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hi, I'm **Debargho_Basak**. I _read_, I _write_ and I _build_ for AI models.
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
+    <img align='right' alt='programmer' width=60% src='./undraw_coding_re_iv62.svg' />
 </a>
 
 - 🌱 This semester I am teaching myself data visualisation.
